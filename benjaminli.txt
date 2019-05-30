@@ -1,1 +1,3 @@
-Benjamin Li
+NAME: Benjamin Li
+AGE:  24
+DOB:  12/15/1994
