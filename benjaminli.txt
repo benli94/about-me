@@ -2,6 +2,6 @@ NAME: 		 Benjamin Li
 AGE:		 24
 DOB:		 12/15/1994
 FAVORITE ANIMAL: N/A
-FAVORITE COLOR:	 No, Blue!
+FAVORITE COLOR:	 No, Blue! - he
 
 copyright: Ben
