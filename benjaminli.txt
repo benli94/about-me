@@ -4,5 +4,7 @@ DOB:		 12/15/1994
 FAVORITE ANIMAL: N/A
 =======
 FAVORITE COLOR:	 No, Blue!
+=======
+FAVORITE COLOR:	 Red
 
 copyright: Ben
